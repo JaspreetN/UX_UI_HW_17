@@ -38,7 +38,6 @@ nav ul {
 
 .text-content {
     flex: 1;
-    max-width: calc(100% - 300px);
 }
 
 .text-content p {
